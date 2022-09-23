@@ -34,31 +34,13 @@ A Powerful Telegram Music+Video Bot by which you can stream songs, videos and ev
 - [Telegram API Key](https://docs.pyrogram.org/intro/setup#api-keys)
 - [Telegram Bot Token](https://t.me/botfather)
 - [MongoDB URI](https://telegra.ph/How-To-get-Mongodb-URI-04-06)
-- [Pyrogram String Session](https://notreallyshikhar.gitbook.io/AyiinMusic/deployment/string-session)
-    
 </details>
 
 <details>
 <summary><b>🔗 String Session</b></summary>
 <br>
     
-> You'll need a [API_ID](https://notreallyshikar.gitbook.io/AyiinMusic/vars/mandatory-vars#1.-api_id) & [API_HASH](https://notreallyshikhar.gitbook.io/AyiinMusic/vars/mandatory-vars#2.-api_hash) in order to generate pyrogram session. 
-> Always remeber to use good API combo else your account could be deleted.
-
-<h4> Generate Session via Repl: </h4>    
-<p><a href="https://replit.com/@AyiinXd/AyiinString"><img src="https://img.shields.io/badge/Generate%20On%20Repl-blueviolet?style=for-the-badge&logo=appveyor" width="200""/></a></p>
-
-<h4> Generate Session via Telegram StringGen Bot: </h4>    
-<p><a href="https://t.me/AyiinStringRobot"><img src="https://img.shields.io/badge/TG%20String%20Gen%20Bot-blueviolet?style=for-the-badge&logo=appveyor" width="200""/></a></p>
-    
-</details>
-
-
-<details>
-<summary><b>🔗 Deploy to VPS</b></summary>
-<br>
-
-> Checkout [Docs](https://notreallyshikhar.gitbook.io/AyiinMusic/deployment/local-hosting-or-vps) for Detailed Explanation on VPS Deploy
+>l
 
 
 ```console
