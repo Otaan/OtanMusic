@@ -22,7 +22,7 @@ A Powerful Telegram Music+Video Bot by which you can stream songs, videos and ev
 ```
 
 
-[![Deploy](https://vercel.com/button)](https://namixotan.vercel.app)
+[![Deploy](https://vercel.com/button)](https://OtanYeee.vercel.app)
 
 
 > Click on buttons to expand!
