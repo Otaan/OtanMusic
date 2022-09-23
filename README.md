@@ -1,5 +1,5 @@
 # OtanMusic
- <p align="center"><img src="https://www.google.com/search?q=gambar+monyet+lucu&oq=ga&aqs=chrome.5.69i59l2j69i60l3j69i59j69i57j0i512j46i175i199i512j0i512.2174j0j7&client=ms-android-xiaomi-rvo2&sourceid=chrome-mobile&ie=UTF-8#imgrc=n3JwsJ2yle3mnM" alt="ICON" width="250" height="250"/></p>
+ <p align="center"><img src="" alt="ICON" width="250" height="250"/></p>
 
 <h4 align="center">
     A Telegram Music+video Bot written in Python using Pyrogram and Py-Tgcalls 
