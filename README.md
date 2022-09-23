@@ -1,5 +1,5 @@
 # OtanMusic
- <p align="center"><img src="" alt="ICON" width="250" height="250"/></p>
+ <p align="center"></></p>
 
 <h4 align="center">
     A Telegram Music+video Bot written in Python using Pyrogram and Py-Tgcalls 
