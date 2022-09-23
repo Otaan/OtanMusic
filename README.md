@@ -63,7 +63,7 @@ A Powerful Telegram Music+Video Bot by which you can stream songs, videos and ev
 
 ```console
 $ git clone https://github.com/OtanYeee/OtanMusic
-$ cd AyiinMusic
+$ cd OtanMusic
 $ pip3 install -U -r requirements.txt
 $ nano sample.env
 $ cp sample.env .env
